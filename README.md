@@ -14,7 +14,8 @@
 
 <div align="center">
 
-  <div>
+  <!-- Proyecto 1: Juego de Ajedrez -->
+  <div style="margin-bottom: 40px;">
     <h4>♟️ Juego de Ajedrez</h4>
     <img src="https://raw.githubusercontent.com/favioalonso/Juego-ajedrez/main/juego_gif.gif" width="400" alt="GIF del juego de ajedrez" />
     <p>Juego completo en Python con Pygame, cronómetro, historial y más.</p>
@@ -22,17 +23,17 @@
     <a href="https://github.com/favioalonso/Juego-ajedrez">🔗 Ver repositorio</a>
   </div>
 
-  <br/>
-
+  <!-- Proyecto 2: Calculadora Científica -->
   <div>
     <h4>🧮 Calculadora Científica</h4>
-    <img src="https://raw.githubusercontent.com/favioalonso/Calculadora-Cient-fica-colorida/main/demo.gif" width="400" alt="GIF de la calculadora" />
+    <img src="https://raw.githubusercontent.com/favioalonso/Calculadora-Cient-fica-colorida/main/calculadoragif.gif" width="400" alt="GIF de la calculadora" />
     <p>Calculadora interactiva con interfaz colorida.</p>
     <p><strong>Tecnologías:</strong> HTML, CSS, JS</p>
     <a href="https://github.com/favioalonso/Calculadora-Cient-fica-colorida">🔗 Ver repositorio</a>
   </div>
 
 </div>
+
 
 
 ### 🧰 Tecnologías que uso
