@@ -1,3 +1,5 @@
+<img src="https://ruta-a-tu-banner.com/banner.png" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Favio Alonso</h1>
 <h3 align="center">💻 Junior Developer | Python | Java | HTML/CSS</h3>
 
