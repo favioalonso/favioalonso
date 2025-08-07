@@ -10,12 +10,29 @@
 💼 Buscando oportunidades en desarrollo backend, testing o análisis de datos  
 
 ---
-## 🚀 Proyectos destacados
+<h3>🚀 Proyectos destacados</h3>
 
-| Nombre | Descripción | Tecnologías |
-|--------|-------------|-------------|
-| [♟️ Juego de Ajedrez](https://github.com/favioalonso/Juego-ajedrez) | Juego completo en Python con Pygame, cronómetro, historial y más | Python, Pygame |
-| [🧮 Calculadora Científica](https://github.com/favioalonso/Calculadora-Cient-fica-colorida) | Calculadora interactiva con interfaz colorida | HTML, CSS, JS |
+<div align="center">
+
+  <div>
+    <h4>♟️ Juego de Ajedrez</h4>
+    <img src="https://raw.githubusercontent.com/favioalonso/Juego-ajedrez/main/juego_gif.gif" width="400" alt="GIF del juego de ajedrez" />
+    <p>Juego completo en Python con Pygame, cronómetro, historial y más.</p>
+    <p><strong>Tecnologías:</strong> Python, Pygame</p>
+    <a href="https://github.com/favioalonso/Juego-ajedrez">🔗 Ver repositorio</a>
+  </div>
+
+  <br/>
+
+  <div>
+    <h4>🧮 Calculadora Científica</h4>
+    <img src="https://raw.githubusercontent.com/favioalonso/Calculadora-Cient-fica-colorida/main/demo.gif" width="400" alt="GIF de la calculadora" />
+    <p>Calculadora interactiva con interfaz colorida.</p>
+    <p><strong>Tecnologías:</strong> HTML, CSS, JS</p>
+    <a href="https://github.com/favioalonso/Calculadora-Cient-fica-colorida">🔗 Ver repositorio</a>
+  </div>
+
+</div>
 
 
 ### 🧰 Tecnologías que uso
