@@ -25,8 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Favio's GitHub stats](https://github-readme-stats.vercel.app/api?username=favioalonso&show_icons=true&theme=default)
 
 
 ## 👥 Proyectos en equipo
