@@ -1,8 +1,30 @@
-## 💬 Sobre mí
+<h1 align="center">Hi 👋, I'm Favio Alonso</h1>
+<h3 align="center">💻 Junior Developer | Python | Java | HTML/CSS</h3>
 
-Soy estudiante de la Licenciatura en Sistemas en la UNLa.  
-Tengo experiencia desarrollando en Java, Spring e Hibernate, y también en testing con JUnit.  
-Actualmente busco seguir creciendo profesionalmente en roles relacionados a desarrollo y análisis de datos.
+---
+
+🎓 Estudiante de Lic. en Sistemas en la UNLa  
+🚀 Apasionado por la tecnología, la lógica y el aprendizaje constante  
+💼 Buscando oportunidades en desarrollo backend, testing o análisis de datos  
+
+---
+## 🚀 Proyectos destacados
+
+| Nombre | Descripción | Tecnologías |
+|--------|-------------|-------------|
+| [♟️ Juego de Ajedrez](https://github.com/favioalonso/Juego-ajedrez) | Juego completo en Python con Pygame, cronómetro, historial y más | Python, Pygame |
+| [🧮 Calculadora Científica](https://github.com/favioalonso/Calculadora-Cient-fica-colorida) | Calculadora interactiva con interfaz colorida | HTML, CSS, JS |
+
+
+### 🧰 Tecnologías que uso
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,javascript,postgres,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Favio's GitHub stats](https://github-readme-stats.vercel.app/api?username=favioalonso&show_icons=true&theme=default)
 
 
 ## 👥 Proyectos en equipo
